@@ -1,1 +1,1 @@
-# odin-calculator
+# The Odin Project 5: Calculator
