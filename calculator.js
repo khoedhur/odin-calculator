@@ -39,6 +39,7 @@ function divide(a, b) {
   return a / b;
 }
 
+
 const firstNumber = 0;
 const secondNumber = 0;
 const operator = "";
