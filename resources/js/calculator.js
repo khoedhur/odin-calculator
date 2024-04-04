@@ -30,7 +30,7 @@ function mulitply(a, b) {
 
 
 /**
- * divides 2 given numbers together and returns the sum
+ * divides 2 given numbers (divisor, dividend) together and returns the sum
  * @param {*} a the first number input in the calculator
  * @param {*} b the second number input in the calculator
  * @returns number a / number b

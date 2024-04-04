@@ -1,3 +1,13 @@
-.button {
-  color: red;
+.container {
+  display: grid;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.calculator {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr) ;
+  grid-template-rows: repeat(6, 1fr);
+  background-color: rgb(135, 135, 135);
 }
